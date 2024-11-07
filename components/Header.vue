@@ -1,7 +1,7 @@
 <template>
-    <div class="h-[70px] border grid items-center font-sans bg-white">
+    <div class="main h-[70px] grid items-center font-sans bg-white">
        <div class="container mx-auto flex items-center justify-between">
-            <div class="flex items-center gap-4 border">
+            <div class="flex items-center gap-4">
                 <p class="logo text-[20px] font-[600] bg-[#A53DFF] px-3 py-2 text-white rounded-full">EU</p>
                 <p class="font-[700] text-[22px]">Elyor Usmanov</p>
             </div>
@@ -22,6 +22,9 @@
 </script>
 
 <style  scoped>
+    .main{
+        box-shadow: 10px 0 10px gray;
+    }
     .logo{
         text-shadow: 1px 1px 4px black;
     }
