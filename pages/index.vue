@@ -1,6 +1,7 @@
 <template>
     <div>
         <SectionOne/>
+        <SectionTwo/>
     </div>
 </template>
 

@@ -1,5 +1,6 @@
 <template>
     <div>
+        <div clas></div>
         <div class="container mx-auto flex items-center justify-center gap-[136px] my-[126px]">
             <div class="w-1/2">
                <div>
@@ -24,10 +25,10 @@
                 <img src="../assets/images/2.png" alt="My picture" class="w-[70%] rounded-xl mx-auto">
             </div>
         </div>
-        <div class="container mx-auto flex items-center justify-between shadow-xl p-[112px]">
+        <div id="about_me" class="container mx-auto flex items-center justify-between shadow-xl pt-[70px] px-[112px]">
             <div class="w-1/2">
                 <img src="../assets/images/22.png" alt="My picture" class="w-[70%] object-contain rounded-full object-center">
-                <div class="flex items-center justify-around w-[50%] text-[32px] text-[#A53DFF] bg-white rounded-lg shadow-lg py-[12px] px-24px relative top-[-72px] left-20">
+                <div class="flex items-center justify-around w-[50%] text-[32px] text-[#A53DFF] bg-white rounded-lg shadow-lg py-[12px] px-24px relative top-[-72px] left-16">
                     <a href="#"><i class='bx bxl-telegram hover:bg-[#A53DFF] hover:text-white py-[12px] px-[12px] rounded-lg'></i></a>
                     <a href="#"><i class='bx bxl-linkedin hover:bg-[#A53DFF] hover:text-white py-[12px] px-[12px] rounded-lg' ></i></a>
                     <a href="#"><i class='bx bxl-github hover:bg-[#A53DFF] hover:text-white py-[12px] px-[12px] rounded-lg' ></i></a>
