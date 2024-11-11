@@ -2,6 +2,7 @@
     <div>
         <SectionOne/>
         <SectionTwo/>
+        <SectionThree/>
     </div>
 </template>
 

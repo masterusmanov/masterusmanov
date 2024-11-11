@@ -25,7 +25,7 @@
                 <img src="../assets/images/2.png" alt="My picture" class="w-[70%] rounded-xl mx-auto">
             </div>
         </div>
-        <div id="about_me" class="container mx-auto flex items-center justify-between shadow-xl pt-[70px] px-[112px]">
+        <div id="about_me" class="container mx-auto flex items-center justify-between shadow-xl pt-[70px] px-[112px] relative top-40 bg-white">
             <div class="w-1/2">
                 <img src="../assets/images/22.png" alt="My picture" class="w-[70%] object-contain rounded-full object-center">
                 <div class="flex items-center justify-around w-[50%] text-[32px] text-[#A53DFF] bg-white rounded-lg shadow-lg py-[12px] px-24px relative top-[-72px] left-16">
