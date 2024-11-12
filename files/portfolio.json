@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "/images/portfolio/best_bux.png",
+        "title": "Frontend Nuxtjs 3",
+        "title1": "Accounting service",
+        "desc": "All types of accounting services"
+    },
+    {
+        "id": 2,
+        "img": "/images/portfolio/edu_platform.png",
+        "title": "Backend Nestjs",
+        "title1": "EDU platform",
+        "desc": "EDU platform - digital system for educational centers"
+    },
+    {
+        "id": 3,
+        "img": "/images/portfolio/cosinus.png",
+        "title": "Frontend Vuejs 3",
+        "title1": "Cosinus LLC Portfolio site",
+        "desc": "Cosinus LLC portfolio site"
+    }
+]

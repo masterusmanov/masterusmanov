@@ -7,7 +7,7 @@
             </div>
             <div class="w-[40%] flex justify-between items-center font-bold text-gray-600">
                 <a href="#">Home</a>
-                <a href="#">About</a>
+                <a href="#about_me">About</a>
                 <a href="#">Portfolio</a>
                 <a href="#">Services</a>
                 <a href="#">Blog</a>
