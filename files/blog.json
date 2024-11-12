@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "/images/blog/vue_data_ui.png",
+        "date": "12/11/2024",
+        "title": "Vue Data UI",
+        "desc": "A specialized component library developed for Vue 3, designed for convenient visualization of data. It includes charts, mini-charts, tables, and many other features. Alternative translation with more technical emphasis: A dedicated component library built for Vue 3, offering convenient data visualization capabilities. The library includes various visualization tools such as charts, sparklines, tables, and numerous other features.",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "img": "/images/blog/cosmos.png",
+        "date": "12/11/2024",
+        "title": "Think time!",
+        "desc": "Access this site through a laptop (PC) and enjoy!",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "img": "/images/blog/claude.png",
+        "date": "12/11/2024",
+        "title": "One more AI",
+        "desc": "Hello! I'm Claude, an AI assistant created by Anthropic. I'm knowledgeable about a wide range of topics and can help with various tasks like analysis, writing, coding, math, and research. I aim to be direct, honest and helpful in my interactions while being clear about my capabilities and limitations. I'm curious and enjoy engaging in thoughtful discussions, and I strive to provide accurate, relevant assistance to help you achieve your goals.",
+        "link": ""
+    },
+    {
+        "id": 1,
+        "img": "/images/blog/vue_data_ui.png",
+        "date": "12/11/2024",
+        "title": "Vue Data UI",
+        "desc": "A specialized component library developed for Vue 3, designed for convenient visualization of data. It includes charts, mini-charts, tables, and many other features. Alternative translation with more technical emphasis: A dedicated component library built for Vue 3, offering convenient data visualization capabilities. The library includes various visualization tools such as charts, sparklines, tables, and numerous other features.",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "img": "/images/blog/cosmos.png",
+        "date": "12/11/2024",
+        "title": "Think time!",
+        "desc": "Access this site through a laptop (PC) and enjoy!",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "img": "/images/blog/claude.png",
+        "date": "12/11/2024",
+        "title": "One more AI",
+        "desc": "Hello! I'm Claude, an AI assistant created by Anthropic. I'm knowledgeable about a wide range of topics and can help with various tasks like analysis, writing, coding, math, and research. I aim to be direct, honest and helpful in my interactions while being clear about my capabilities and limitations. I'm curious and enjoy engaging in thoughtful discussions, and I strive to provide accurate, relevant assistance to help you achieve your goals.",
+        "link": ""
+    }
+]

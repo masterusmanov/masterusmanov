@@ -3,6 +3,8 @@
         <SectionOne/>
         <SectionTwo/>
         <SectionThree/>
+        <SectionFour/>
+        <SectionFive/>
     </div>
 </template>
 
