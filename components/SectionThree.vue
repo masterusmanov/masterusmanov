@@ -14,7 +14,7 @@
                     </div>
                 </div>
             </div>
-                <button class="text-white rounded-md py-[12px] px-[24px] mt-[32px] bg-[#A53DFF] text-white font-bold flex mx-auto">More project</button>
+                <button class="text-white rounded-md py-[12px] px-[24px] mt-[32px] bg-[#A53DFF] font-bold flex mx-auto">More project</button>
         </div>
     </div>
 </template>
