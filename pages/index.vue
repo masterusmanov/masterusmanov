@@ -5,6 +5,7 @@
         <SectionThree/>
         <SectionFour/>
         <SectionFive/>
+        <SectionSix/>
     </div>
 </template>
 
