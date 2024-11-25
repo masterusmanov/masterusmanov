@@ -12,7 +12,7 @@
             </div>
         </div>
        <div class="flex justify-end items-center gap-4 md:gap-0 mt-[32px] md:mt-[56px] xl:mt-[48px]">
-        <div class="md:w-[10%] lg:w-[10%] xl:w-[8%] 2xl:w-[6%] flex  items-center gap-[20px]">
+        <div class="md:w-[10%] lg:w-[10%] xl:w-[8%] 2xl:w-[6%] flex items-center gap-[20px] mr-[30px]">
             <div class=" top-0 -left-4 h-full items-center">
                 <button @click="prevSlide" role="button" class="prev px-2 py-2 rounded-full text-[#A53DFF] border border-[#A53DFF] hover:bg-[#A53DFF] hover:text-white group" aria-label="prev"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 group-active:-translate-x-2 transition-all duration-200 ease-linear">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />

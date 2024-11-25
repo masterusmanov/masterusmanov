@@ -1,7 +1,8 @@
 <template>
     <div>
         <SectionOne/>
-        <SectionTwo/>
+        <!-- <SectionTwo/> -->
+        <SectionSkill/>
         <SectionThree/>
         <SectionFour/>
         <SectionFive/>
