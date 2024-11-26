@@ -1,7 +1,7 @@
 <template>
     <div>
         <div clas></div>
-        <div class="container mx-auto md:flex items-center justify-center md:gap-[70px] 2xl:gap-[136px] my-[70px] md:my-[126px] xl:px-[10px] 2xl:px-0">
+        <div id="home" class="container mx-auto md:flex items-center justify-center md:gap-[70px] 2xl:gap-[136px] my-[70px] md:my-[126px] xl:px-[10px] 2xl:px-0">
             <div class="md:w-[70%] lg:w-1/2">
                <div class="px-[10px]">
                     <h1 class="text-[38px] lg:text-[48px] font-bold">Hello, I’m <br>Elyor Usmanov</h1>

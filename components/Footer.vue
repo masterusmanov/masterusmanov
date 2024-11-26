@@ -7,12 +7,12 @@
             </div>
             <div class="xl:w-[65%] 2xl:w-[55%] flex items-center font-bold text-white">
                 <div class="hidden w-[100%] lg:flex gap-[20px] xl:justify-between items-center">
-                    <a href="#">Home</a>
+                    <a href="#home">Home</a>
                     <a href="#about_me">About</a>
                     <a href="#skills">Skills</a>
-                    <a href="#">Portfolio</a>
-                    <a href="#">Services</a>
-                    <a href="#">Blog</a>
+                    <a href="#portfolio">Portfolio</a>
+                    <a href="#service">Services</a>
+                    <a href="#blog">Blog</a>
                 </div>
                 <div class="lg:w-[80%] xl:w-[60%] ml-[30px] xl:ml-[100px] px-[10px] md:px-0">
                     <a href="#" class="ml-[10%] md:ml-0"><i class='bx bxl-telegram mr-[10px] text-blue-600 text-[20px]'></i>@masterusmanov</a>

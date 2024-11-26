@@ -1,5 +1,5 @@
 <template>
-    <div class="my-[100px]">
+    <div id="portfolio" class="my-[100px]">
         <div class="container mx-auto">
             <h1 class="text-[42px] font-[700] text-center">Portfolio</h1>
             <p class="text-gray-500 px-[10px] md:px-0 text-center lg:w-[70%] mx-auto mt-[24px]">A diverse collection of successfully implemented projects across various industries, including corporate websites, e-commerce platforms, educational portals, and mobile applications. Each project is equipped with modern technologies, high-level security measures, and user-friendly interfaces. The portfolio reflects the technical complexity of projects, design solutions, and the level of meeting client requirements. All projects are created based on responsive design principles, ensuring perfect functionality across different devices. Our work demonstrates expertise in creating scalable, secure, and efficient digital solutions that drive business growth and user engagement.</p>

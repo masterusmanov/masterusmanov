@@ -1,6 +1,6 @@
 <template>
     <div class="bg-gray-500 py-[100px]">
-        <div class="container mx-auto">
+        <div id="service" class="container mx-auto">
              <h2 class="text-[38px] font-[700] text-center">Happy Clients</h2>
             <p class="w-[90%] md:w-[70%] mx-auto mt-[24px] text-center">By combining our technical expertise, industry knowledge, and client-centric mindset, we are able to consistently deliver projects that exceed expectations and foster long-term, mutually beneficial relationships. Our clients know they can count on us to be reliable, responsive, and dedicated partners in their success.</p>
         </div>

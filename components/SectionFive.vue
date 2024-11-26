@@ -1,5 +1,5 @@
 <template>
-   <div class="my-[100px]">
+   <div id="blog" class="my-[100px]">
         <div class="container mx-auto">
             <h1 class="text-[42px] font-[700] text-center">Blog</h1>
             <p class="text-gray-500 text-center w-[90%] md:w-[70%] mx-auto mt-[24px]">My Goal:
