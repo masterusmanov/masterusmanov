@@ -12,7 +12,7 @@
                         and to reach my target, I am ready to go through
                         any troubles and learn new technologies.
                     </p>
-                    <button class="px-[24px] py-[12px] bg-[#A53DFF] text-[18px] text-white font-[700] rounded-md">Contact</button>
+                    <a href="#footer" class="px-[24px] py-[12px] bg-[#A53DFF] text-[18px] text-white font-[700] rounded-md">Contact</a>
                </div>
                <div class="flex items-center justify-between xl:gap-2 px-[10px] 2xl:justify-around my-[50px] md:my-0 md:mt-[50px] xl:mt-[80px] 2xl:mt-[142px]">
                     <div v-for="el of experience" :key="el.id" class="bg-[#F5EBFE] px-[10px] md:px-0 lg:px-[12px] 2xl:px-[12px] 2xl:py-[17px] xl:w-[180px] 2xl:w-[220px]">

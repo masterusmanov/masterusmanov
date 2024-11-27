@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#293548]">
+    <div id="footer" class="bg-[#293548]">
         <div class="container mx-auto flex items-center justify-between pt-[150px] pb-[50px]">
             <div class="flex items-center gap-4 px-[10px] md:px-0">
                 <p class="logo text-[20px] font-[600] bg-[#A53DFF] px-3 py-2 text-white rounded-full">EU</p>
