@@ -43,8 +43,8 @@
                     I am always eager to learn new technologies and improve my skills. I enjoy working closely with clients, understanding their objectives, and proposing the best solutions.
                     If you need full-stack developer services or web design assistance, I'm ready to offer you excellent solutions. I recommend you get in touch with me!</p>
                 <div class="flex items-center py-[30px] lg:py-[30px] gap-2 md:gap-14 xl:gap-36  xl:my-[50px] 2xl:my-[32px]">
-                    <a href="#" class="px-[24px] py-[12px] text-[#A53DFF] border border-[#A53DFF] rounded-lg font-[700] hover:bg-[#A53DFF] hover:text-white">My projects</a>    
-                    <a href="#" download class="px-[24px] py-[12px] text-[#A53DFF] border border-[#A53DFF] rounded-lg font-[700] hover:bg-[#A53DFF] hover:text-white"><i class='bx bx-download mr-4 text-[20px]' ></i>Download CV</a>
+                    <a href="#portfolio" class="px-[24px] py-[12px] text-[#A53DFF] border border-[#A53DFF] rounded-lg font-[700] hover:bg-[#A53DFF] hover:text-white">My projects</a>    
+                    <a href="ELYOR_USMANOV_Resume.pdf" download class="px-[24px] py-[12px] text-[#A53DFF] border border-[#A53DFF] rounded-lg font-[700] hover:bg-[#A53DFF] hover:text-white"><i class='bx bx-download mr-4 text-[20px]' ></i>Download CV</a>
                 </div>
             </div>
         </div>
